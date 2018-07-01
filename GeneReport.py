@@ -1,9 +1,4 @@
 #! /usr/bin/env python
-'''
-BisTEP is developped for identifying TE polymophisms using BS-seq data 
-By Shaojun Xie
-From Bioinformatics Core, Purdue University
-'''
 # -*- coding: utf-8 -*-
 
 import logging
